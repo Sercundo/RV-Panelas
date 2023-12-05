@@ -228,6 +228,15 @@
     gap: 8px;
     color: $white-normal;
 }
+.footer-butt{
+    border: 1px solid $white-normal;
+    padding: 8px;
+    border-radius: 4px;
+    color: $white-normal;
+    background-color: transparent;
+    transition: background-color 0.8s;
+
+}
 
 //-----------
 //---------
